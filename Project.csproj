@@ -8,11 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Accord" Version="3.8.0" />
     <PackageReference Include="HtmlAgilityPack" Version="1.12.1" />
     <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
     <PackageReference Include="Plotly.NET" Version="5.1.0" />
-    <PackageReference Include="ScottPlot" Version="5.0.55" />
   </ItemGroup>
 
 </Project>
